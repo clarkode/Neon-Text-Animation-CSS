@@ -1,1 +1,2 @@
-# Neon-Text-Animation-CSS
+#clarkode
+Amazing Neon Text Animation with HTML5 and CSS
